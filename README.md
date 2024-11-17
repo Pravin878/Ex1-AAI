@@ -3,7 +3,7 @@
 <H3> Experiment 1</H3>
 <H3>DATE : 09-08-2024</H3>
 
-<H1 ALIGN=CENTER> Implementation of Bayesian Networks</H1>
+<H1 ALIGN=CENTER> Ex :1 Implementation of Bayesian Networks</H1>
 
 ## Aim :
 
